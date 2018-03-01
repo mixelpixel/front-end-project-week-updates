@@ -74,4 +74,4 @@ You will notice that this repo doesn't have any starter code, this is on purpose
 ![Edit View](front-end-project-designs/edit-view.png)
 
 ## Delete Modal
-![Delete Modal](front-end-project-designs/edit-view.png)
+![Delete Modal](front-end-project-designs/delete-modal.png)
